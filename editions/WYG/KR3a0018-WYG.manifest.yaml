@@ -27,23 +27,53 @@ assets:
   - {seq: 2, role: markers, filename: assets/KR3a0018_002-WYG.markers.yaml, hash: 'sha256:73617581204d15761a0e1adfd994a0b18ef85ae286132f90688f52bc73490926'}
   - {seq: 3, role: markers, filename: assets/KR3a0018_003-WYG.markers.yaml, hash: 'sha256:10b62e7182c0f84dc36a1e4eb206842d088bd0fd6d43b725617e384ec1a28bf7'}
 table_of_contents:
-- ref: {seq: 0, marker_id: KR3a0018_WYG_000-1a, span: [body, 0, 362]}
+- ref:
+    seq: 0
+    marker_id: KR3a0018_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 362
   label: 提要
   type: section
   level: 1
-- ref: {seq: 0, marker_id: KR3a0018_WYG_000-3a, span: [body, 362, 610]}
+- ref:
+    seq: 0
+    marker_id: KR3a0018_WYG_000-3a
+    span:
+    - body
+    - 362
+    - 610
   label: 原序
   type: section
   level: 1
-- ref: {seq: 1, marker_id: KR3a0018_WYG_001-1a, span: [body, 0, 2623]}
+- ref:
+    seq: 1
+    marker_id: KR3a0018_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2623
   label: 卷上
   type: section
   level: 1
-- ref: {seq: 2, marker_id: KR3a0018_WYG_002-1a, span: [body, 0, 2269]}
+- ref:
+    seq: 2
+    marker_id: KR3a0018_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 2269
   label: 卷中
   type: section
   level: 1
-- ref: {seq: 3, marker_id: KR3a0018_WYG_003-1a, span: [body, 0, 1872]}
+- ref:
+    seq: 3
+    marker_id: KR3a0018_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 1872
   label: 卷下
   type: section
   level: 1
